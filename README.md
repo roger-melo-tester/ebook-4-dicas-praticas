@@ -6,7 +6,7 @@
   Exercícios do eBook "4 Dicas Práticas para Escrever Condicionais Eficientes em JavaScript"
 </h1>
 
-## Passo-a-passo para Baixar e Entregar os Exercícios
+## Guia para Baixar e Entregar os Exercícios
 
 <!-- LINKAR ÂNCORAS AQUI -->
 - [Como Configurar o Ambiente](#-)
